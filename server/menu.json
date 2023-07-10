@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Ayam Krispy Mcdonald's",
+    "description": "Ayam goreng khas McDonald's , dengan kulit yang renyah dan daging ayam yang lembut dan gurih.",
+    "price": 21000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/Lff4QebQnB9aToyb5wtJ.png",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "id": 2,
+    "name": "Big Mac®",
+    "description": "Burger Ikonik McDonald's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun, bawang, diapit roti bertabur wijen",
+    "price": 30000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/nhj93oZApoMavF1lC6Wm.png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "id": 3,
+    "name": "Triple Cheeseburger",
+    "description": "Perpaduan roti burger dengan 3 lapisan daging gurih berasal dari 100% daging sapi Australia dan 3 lapis keju, saus tomat, acar, potongan bawang dan mustard.",
+    "price": 26000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/November2022/VQRNLr01mlK5MrKjX3H9.png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "name": "Beef Burger",
+    "description": "Roti burger, 100% daging sapi, saus tomat, acar timun, potongan bawang dan mustard.",
+    "price": 23000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2020/qvZ45vLQcjPwUXror9aQ.png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "id": 5,
+    "name": "Chicken Muffin",
+    "description": "Setangkup English muffin hangat dilapis saus mayonais dengan daging ayam olahan yang digoreng dengan sempurna. Tersedia dari jam 5-11 pagi.",
+    "price": 15000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/AZa7XBfA0ADkUbSdnQOW.png",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "id": 6,
+    "name": "Sausage Wrap",
+    "description": "Perpaduan sosis ayam, scrambled egg, dan keju gurih dalam balutan tortilla yang lembut. Tersedia dari jam 5-11 pagi.",
+    "price": 18000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/oOqk0inorO5YNcw5S2iG.png",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "id": 7,
+    "name": "PaNas 2 with Rice",
+    "description": "2 pcs Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+    "price": 34000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/Lpv9lCHnzdtnFx1ZbGrj.png",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "id": 8,
+    "name": "Fish Snack Wrap",
+    "description": "Daging ikan digoreng renyah dengan selada segar, keju istimewa dan saus spesial dalam balutan tortilla yang lembut",
+    "price": 18000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2022/G7cFrY0RwlLIJXAYGhMq.png",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "id": 9,
+    "name": "Coca-Cola McFloat",
+    "description": "Minuman berkarbonasi dengan rasa cola dengan tambahan es krim vanilla McDonald's",
+    "price": 10000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2022/ym9vAZ0Tlk7gvwL2ShrE.png",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "id": 10,
+    "name": "Iced Coffee Jelly Float",
+    "description": "Es kopi 100% Arabika dengan susu yang segar dan tambahan jelly serta es krim yang yummy",
+    "price": 12000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2022/S8loGaq9C4kwV0WF59K9.png",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "id": 11,
+    "name": "Fish Fillet Burger",
+    "description": "Daging ikan pilihan, dengan saus tartar dan keju istimewa dalam setangkup roti lembut kukus",
+    "price": 21000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/BFcnGCUwrw4CxkxDkahi.png",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "id": 12,
+    "name": "Sausage McMuffin with Egg",
+    "description": "Perpaduan klasik english muffin, sosis ayam khas McDonald's, telur, dan selembar keju bernutrisi. Tersedia dari jam 5-11 pagi.",
+    "price": 28000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/pOXjdLMT1dffGjlcYHdj.png",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "id": 13,
+    "name": "Cheeseburger",
+    "description": "Roti burger, daging sapi, keju, saus tomat, acar, potongan bawang dan mustard.",
+    "price": 20000,
+    "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/uku5BjLSPYQswEWsXVFV.png",
+    "authorId": 1,
+    "categoryId": 2
+  }
+]

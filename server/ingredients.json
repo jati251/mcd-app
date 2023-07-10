@@ -1,0 +1,184 @@
+[
+	{
+		"id" : 5,
+		"itemId" : 3,
+		"name" : "Roti",
+		"createdAt" : "2023-06-17T06:34:06.058Z",
+		"updatedAt" : "2023-06-17T06:34:06.058Z"
+	},
+	{
+		"id" : 6,
+		"itemId" : 3,
+		"name" : "Daging sapi",
+		"createdAt" : "2023-06-17T06:34:06.058Z",
+		"updatedAt" : "2023-06-17T06:34:06.058Z"
+	},
+	{
+		"id" : 7,
+		"itemId" : 4,
+		"name" : "Roti",
+		"createdAt" : "2023-06-17T06:35:59.265Z",
+		"updatedAt" : "2023-06-17T06:35:59.265Z"
+	},
+	{
+		"id" : 8,
+		"itemId" : 4,
+		"name" : "Daging sapi",
+		"createdAt" : "2023-06-17T06:35:59.265Z",
+		"updatedAt" : "2023-06-17T06:35:59.265Z"
+	},
+	{
+		"id" : 9,
+		"itemId" : 5,
+		"name" : "Roti",
+		"createdAt" : "2023-06-17T06:37:12.016Z",
+		"updatedAt" : "2023-06-17T06:37:12.016Z"
+	},
+	{
+		"id" : 10,
+		"itemId" : 5,
+		"name" : "Ayam muffin",
+		"createdAt" : "2023-06-17T06:37:12.016Z",
+		"updatedAt" : "2023-06-17T06:37:12.016Z"
+	},
+	{
+		"id" : 11,
+		"itemId" : 6,
+		"name" : "Sosis",
+		"createdAt" : "2023-06-17T06:37:57.456Z",
+		"updatedAt" : "2023-06-17T06:37:57.456Z"
+	},
+	{
+		"id" : 12,
+		"itemId" : 6,
+		"name" : "Tortilla",
+		"createdAt" : "2023-06-17T06:37:57.456Z",
+		"updatedAt" : "2023-06-17T06:37:57.456Z"
+	},
+	{
+		"id" : 13,
+		"itemId" : 7,
+		"name" : "Nasi",
+		"createdAt" : "2023-06-17T06:38:35.067Z",
+		"updatedAt" : "2023-06-17T06:38:35.067Z"
+	},
+	{
+		"id" : 14,
+		"itemId" : 7,
+		"name" : "Ayam",
+		"createdAt" : "2023-06-17T06:38:35.067Z",
+		"updatedAt" : "2023-06-17T06:38:35.067Z"
+	},
+	{
+		"id" : 15,
+		"itemId" : 8,
+		"name" : "Ikan",
+		"createdAt" : "2023-06-17T06:39:44.412Z",
+		"updatedAt" : "2023-06-17T06:39:44.412Z"
+	},
+	{
+		"id" : 16,
+		"itemId" : 8,
+		"name" : "Tortilla",
+		"createdAt" : "2023-06-17T06:39:44.412Z",
+		"updatedAt" : "2023-06-17T06:39:44.412Z"
+	},
+	{
+		"id" : 17,
+		"itemId" : 9,
+		"name" : "Cola",
+		"createdAt" : "2023-06-17T06:47:16.792Z",
+		"updatedAt" : "2023-06-17T06:47:16.792Z"
+	},
+	{
+		"id" : 18,
+		"itemId" : 9,
+		"name" : "Es krim",
+		"createdAt" : "2023-06-17T06:47:16.792Z",
+		"updatedAt" : "2023-06-17T06:47:16.792Z"
+	},
+	{
+		"id" : 19,
+		"itemId" : 10,
+		"name" : "Jelly",
+		"createdAt" : "2023-06-17T06:48:02.690Z",
+		"updatedAt" : "2023-06-17T06:48:02.690Z"
+	},
+	{
+		"id" : 20,
+		"itemId" : 10,
+		"name" : "Kopi",
+		"createdAt" : "2023-06-17T06:48:02.690Z",
+		"updatedAt" : "2023-06-17T06:48:02.690Z"
+	},
+	{
+		"id" : 21,
+		"itemId" : 11,
+		"name" : "Ikan",
+		"createdAt" : "2023-06-17T06:48:39.833Z",
+		"updatedAt" : "2023-06-17T06:48:39.833Z"
+	},
+	{
+		"id" : 22,
+		"itemId" : 11,
+		"name" : "Roti",
+		"createdAt" : "2023-06-17T06:48:39.833Z",
+		"updatedAt" : "2023-06-17T06:48:39.833Z"
+	},
+	{
+		"id" : 23,
+		"itemId" : 12,
+		"name" : "Telur",
+		"createdAt" : "2023-06-17T06:49:37.111Z",
+		"updatedAt" : "2023-06-17T06:49:37.111Z"
+	},
+	{
+		"id" : 24,
+		"itemId" : 12,
+		"name" : "Sosis ayam",
+		"createdAt" : "2023-06-17T06:49:37.111Z",
+		"updatedAt" : "2023-06-17T06:49:37.111Z"
+	},
+	{
+		"id" : 25,
+		"itemId" : 13,
+		"name" : "Roti",
+		"createdAt" : "2023-06-17T06:50:06.315Z",
+		"updatedAt" : "2023-06-17T06:50:06.315Z"
+	},
+	{
+		"id" : 26,
+		"itemId" : 13,
+		"name" : "Daging Sapi",
+		"createdAt" : "2023-06-17T06:50:06.315Z",
+		"updatedAt" : "2023-06-17T06:50:06.315Z"
+	},
+	{
+		"id" : 1,
+		"itemId" : 1,
+		"name" : "tepung",
+		"createdAt" : "2023-06-17T06:32:24.891Z",
+		"updatedAt" : "2023-06-17T09:14:23.855Z"
+	},
+	{
+		"id" : 2,
+		"itemId" : 1,
+		"name" : "ayam",
+		"createdAt" : "2023-06-17T06:32:24.891Z",
+		"updatedAt" : "2023-06-17T09:14:23.855Z"
+	},
+	{
+		"id" : 3,
+		"itemId" : 2,
+		"name" : "Roti",
+		"createdAt" : "2023-06-17T06:33:20.751Z",
+		"updatedAt" : "2023-06-17T09:15:11.313Z"
+	},
+	{
+		"id" : 4,
+		"itemId" : 2,
+		"name" : "Daging",
+		"createdAt" : "2023-06-17T06:33:20.751Z",
+		"updatedAt" : "2023-06-17T09:15:11.313Z"
+	}
+]

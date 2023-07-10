@@ -1,0 +1,6 @@
+export const FETCH_MENU = 'menu/fetchDetail'
+export const FETCH_MENUS = 'menus/fetchAll'
+export const FETCH_CATEGORIES = 'categories/fetchAll'
+export const FETCH_CATEGORY = 'categories/findId'
+export const USER_LOGIN = 'user/login'
+export const MENU_CREATED = 'menu/create'
